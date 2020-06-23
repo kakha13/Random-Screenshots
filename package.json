@@ -9,7 +9,7 @@
     }
   },
   "description": "Nativescript vue app android/ios Showing u random screenshots from https://prnt.sc/",
-  "license": "SEE LICENSE IN <your-license-filename>",
+  "license": "SEE LICENSE IN https://github.com/kakha13/Random-Screenshots/blob/master/LICENSE",
   "repository": "https://github.com/kakha13/Random-Screenshots.git",
   "dependencies": {
     "@nativescript-copilot/vue": "^0.2.2",
