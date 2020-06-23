@@ -1,6 +1,8 @@
 # Random-Screenshots
 Nativescript vue app android/ios Showing u random screenshots from https://prnt.sc/
 
+Download From: [Play Store](https://play.google.com/store/apps/details?id=ge.any.RandomScreenshot)
+
 ![first screen](https://lh3.googleusercontent.com/QeG1XmwVRF50Zs4vyTauyzmItLYa_EfMa_uhA76xtEWM-CyopW67nqgxthcfgq86iCg=w1920-h969-rw)
 ![gallery screen](https://lh3.googleusercontent.com/3H0Sef0z7lIdpTh4SVtR05dEwxU5MmzM4gXgPAfs5V9XxRbr2v3zoo8YNbEqb2BqyA=w1920-h969-rw)
 
