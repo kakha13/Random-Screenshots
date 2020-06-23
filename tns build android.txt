@@ -1,0 +1,3 @@
+tns build android --release --key-store-path "D:\apps\Sudekick\Random Screenshot\androidKey.jks" --key-store-password "kakha1" --key-store-alias "kakha13" --key-store-alias-password "kakha1"
+
+tns build android --release --key-store-path "D:\apps\Sudekick\Random Screenshot\androidKey.jks" --key-store-password "kakha1" --key-store-alias "kakha13" --key-store-alias-password "kakha1" --aab --copy-to release.aab

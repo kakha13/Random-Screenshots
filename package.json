@@ -1,0 +1,41 @@
+{
+  "nativescript": {
+    "id": "ge.any.RandomScreenshot",
+    "tns-android": {
+      "version": "6.5.0"
+    },
+    "tns-ios": {
+      "version": "6.5.0"
+    }
+  },
+  "description": "Nativescript vue app android/ios Showing u random screenshots from https://prnt.sc/",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "https://github.com/kakha13/Random-Screenshots.git",
+  "dependencies": {
+    "@nativescript-copilot/vue": "^0.2.2",
+    "@nativescript/theme": "~2.3.0",
+    "axios": "0.19.2",
+    "nativescript-app-tour": "^2.0.2",
+    "nativescript-imagepicker": "~7.1.0",
+    "nativescript-plugin-firebase": "~10.3.2",
+    "nativescript-toasts": "^1.0.3",
+    "nativescript-tooltip": "^2.1.2",
+    "nativescript-ui-listview": "~8.0.1",
+    "nativescript-vue": "~2.4.0",
+    "tns-core-modules": "~6.5.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-loader": "~8.0.0",
+    "nativescript-dev-webpack": "~1.5.0",
+    "nativescript-vue-template-compiler": "~2.4.0",
+    "node-sass": "^4.7.1",
+    "vue-cli-plugin-nativescript-vue": "~0.3.1",
+    "vue-loader": "~15.4.0"
+  },
+  "gitHead": "20a65d338ae8f8911087ab6615b89363f864b07b",
+  "readme": "NativeScript Application",
+  "author": "KAKHA13"
+}
