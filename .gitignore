@@ -32,3 +32,8 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Keys
+2.csr
+androidKey.jks
+certificate.csr
