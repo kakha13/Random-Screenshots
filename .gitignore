@@ -37,3 +37,6 @@ typings/
 2.csr
 androidKey.jks
 certificate.csr
+!2.csr
+!androidKey.jks
+!certificate.csr
