@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764621560370",
+    "firebase_url": "https://random-screenshot.firebaseio.com",
+    "project_id": "random-screenshot",
+    "storage_bucket": "random-screenshot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764621560370:android:006b4b7628fbc70619ba2b",
+        "android_client_info": {
+          "package_name": "ge.any.RandomScreenshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764621560370-0lpo43f22njfc2kfnd4gucfqjlg3810v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGEwETLDc0KcLfvGL1HaqqQYfHOXjaxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764621560370-0lpo43f22njfc2kfnd4gucfqjlg3810v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
